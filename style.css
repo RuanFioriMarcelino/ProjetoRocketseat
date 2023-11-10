@@ -32,6 +32,7 @@ body {
   height: 100vh;
   /*background: color image repeat position/ size
   background: url(./assets/assets/bg-mobile.jpg) no-repeat top center/cover; */
+  overflow: hidden;
 }
 
 body * {
